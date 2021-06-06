@@ -1,6 +1,6 @@
 # Asks and Answers / Guia Perguntas.
-# Projeto desenvolvido no curso Formação NodeJs.
-Site de perguntas e resposta ao estilo ask.fm e Quora.com.
+Projeto desenvolvido com o intuito de praticar meus conhecimentos em NodeJs além do Bootstrap 5 e Squelize.
+Ele é um site de perguntas e resposta ao estilo ask.fm e Quora.com onde o usuário pode interagir respondendo e fazendo perguntas.
 
 Ferramentas utilizadas:
 

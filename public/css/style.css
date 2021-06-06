@@ -1,0 +1,78 @@
+:root {
+    --background-color: rgb(245, 241, 237);
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 7vh;
+    margin-left: 4vh;
+}
+.answer-body{
+    background-color: beige;
+    margin-bottom: 4vh;
+    padding-bottom: 4vh;
+    padding-top: 4vh;
+    padding-left: 4vh;
+
+}
+.answers-card {
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 2vh;
+}
+
+.asks,
+.answers {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.bi-search {
+    color: white;
+    width: 12vh;
+}
+
+.card {
+    border-color: black;
+}
+
+.card,
+.card-pergunta {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    padding-bottom: 2vh;
+}
+
+.card-header,
+.card-footer {
+    background-color: var(--background-color);
+}
+
+.container {
+    margin-top: 10vh;
+}
+
+.description {
+    margin: 2vh;
+}
+
+.navbar {
+    background-color: rgb(199, 34, 34);
+    overflow: hidden;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+    z-index: 1;
+}
+
+.text-answer {
+    margin-bottom: 2vh;
+}
